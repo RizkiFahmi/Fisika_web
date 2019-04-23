@@ -12,3 +12,6 @@ project hass been deleted
 5. latar belakang
 6. latar depan
 7. penonton
+8. Survey penonton
+9. Penutupan
+
