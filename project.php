@@ -11,3 +11,4 @@ project hass been deleted
 4. skenario
 5. latar belakang
 6. latar depan
+7. penonton
